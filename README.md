@@ -1,0 +1,2 @@
+# ulala
+brute force dasar
